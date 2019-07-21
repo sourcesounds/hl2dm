@@ -1,0 +1,9 @@
+sound\common\talk.wav
+sound\player\jingle.wav
+sound\vehicles\digger_startengine1.wav
+sound\vehicles\digger_stopengine1.wav
+sound\weapons\slam\buttonclick.wav
+sound\weapons\slam\mine_mode.wav
+sound\weapons\slam\throw.wav
+sound\weapons\tripwire\hook.wav
+sound\weapons\tripwire\mine_activate.wav
